@@ -1,0 +1,34 @@
+#!/...placeholder for interpreter
+# is comment				
+# This is a definition for a shorthand to represent archimate in text. 
+= is direct mapping		
+composition= <*>-
+-<*>= composiiton
+aggregation= <>-
+-<>= aggregation
+assignment= *->
+<-*= assignment
+realization= .|>
+<|.= realization
+serving= -->
+<--= serving
+access= ..>
+<..= access
+influence= ->+
++<- = influence
+influence= ->-
+-<- = influence
+association= ---
+triggering= -*>
+flow= .*>
+specialization=<|-
+and junction=&
+or junction=|
+property of=
+
+#assign other operators
+list = [a, b, c]
+nesting = {}
+attribute assignment===
+attribute:value
+attribute:schema:content::
